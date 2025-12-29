@@ -269,6 +269,13 @@ export function Chapter1() {
 
       <SectionCard title="1.3 How to build the circuits in this book">
         <h3>Step 1: Circuit Designing</h3>
+
+        <DiagramCard
+          label="Example schematic diagram (optional)"
+          src="/images/circuitech/ch1/example-schematic.png"
+          alt="Example schematic diagram"
+        />
+
         <p>
           Circuit designing involves schematic diagrams that show how to connect
           components to build an electronic circuit.
